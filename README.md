@@ -1,11 +1,14 @@
 # Calculadora IMC
-Desc
+Esse projeto é um aplicativo Android nativo com lingagem de programacao kotlin
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-Screenshots
+<img src="https://github.com/user-attachments/assets/1eb6392d-b6e9-4629-b077-e54175ce78fb" width=260/> <img src="https://github.com/user-attachments/assets/08f303a4-3721-470d-8dda-c6fc0373da37" width=260/>
+
+
 
 ## Tecnologias
+
 Techs
 
 
